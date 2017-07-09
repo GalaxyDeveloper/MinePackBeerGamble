@@ -1,0 +1,2 @@
+# MinePackBeerGamble
+MinePack Extension
